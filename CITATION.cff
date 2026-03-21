@@ -19,3 +19,13 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+references:
+  - type: dataset
+    title: "Open Research Collection — Juan Moisés de la Serna Tuya"
+    doi: "10.5281/zenodo.19145316"
+    url: "https://doi.org/10.5281/zenodo.19145316"
+    authors:
+      - family-names: "De la Serna Tuya"
+        given-names: "Juan Moisés"
+        orcid: "https://orcid.org/0000-0002-8401-8018"
+    notes: "Master collection of 1273+ open research datasets"
