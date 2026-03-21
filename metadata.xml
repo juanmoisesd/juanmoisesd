@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:datacite="http://datacite.org/schema/kernel-4">
+  <dc:title>Profile README</dc:title>
+  <dc:creator>Juan Moisés de la Serna Tuya</dc:creator>
+  <dc:creator id="orcid:0000-0002-8401-8018">Juan Moisés de la Serna Tuya</dc:creator>
+  <dc:publisher>GitHub</dc:publisher>
+  <dc:date>2026-03-20</dc:date>
+  <dc:type>Dataset</dc:type>
+  <dc:format>text/csv</dc:format>
+  <dc:format>application/json</dc:format>
+  <dc:language>es</dc:language>
+  <dc:language>en</dc:language>
+  <dc:rights>CC0 1.0 Universal</dc:rights>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:description>Profile README</dc:description>
+  <dc:subject>open-data, dataset, research</dc:subject>
+  <dc:identifier>https://github.com/juanmoisesd/juanmoisesd</dc:identifier>
+  <dcterms:license>https://creativecommons.org/publicdomain/zero/1.0/</dcterms:license>
+  <dcterms:created>2026-03-20</dcterms:created>
+  <dcterms:modified>2026-03-20</dcterms:modified>
+  <dcterms:isPartOf>https://github.com/juanmoisesd</dcterms:isPartOf>
+  <datacite:contributor contributorType="DataManager">
+    <datacite:contributorName>Juan Moisés de la Serna Tuya</datacite:contributorName>
+    <datacite:nameIdentifier schemeURI="https://orcid.org/" nameIdentifierScheme="ORCID">https://orcid.org/0000-0002-8401-8018</datacite:nameIdentifier>
+  </datacite:contributor>
+</metadata>
