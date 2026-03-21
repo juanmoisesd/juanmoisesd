@@ -1,0 +1,19 @@
+# Requirements for Profile README
+# Author: Juan Moisés de la Serna Tuya
+# ORCID: https://orcid.org/0000-0002-8401-8018
+
+# Data analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Data visualization (optional)
+matplotlib>=3.5.0
+
+# JSON/YAML processing
+pyyaml>=6.0
+
+# HTTP requests
+requests>=2.28.0
+
+# Validation
+jsonschema>=4.0.0
