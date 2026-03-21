@@ -1,111 +1,135 @@
-<div align="center">
+# 👋 Juan Moisés de la Serna Tuya
 
-# Juan Moisés de la Serna Tuya
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-8401-8018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmoisesdelaserna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juanmoisesdelaserna/)
+[![Scopus](https://img.shields.io/badge/Scopus-26632846700-orange?style=for-the-badge)](https://www.scopus.com/authid/detail.uri?authorId=26632846700)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-teal?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-Top_1%25-darkgreen?style=for-the-badge)](https://unir.academia.edu/JuanMois%C3%A9sDeLaSernaTuya)
+[![GitHub followers](https://img.shields.io/github/followers/juanmoisesd?style=for-the-badge&logo=github)](https://github.com/juanmoisesd)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-8401-8018)
-[![Website](https://img.shields.io/badge/Website-juanmoisesdelaserna.es-2C3E50?style=for-the-badge&logo=firefox)](https://juanmoisesdelaserna.es)
-[![Institution](https://img.shields.io/badge/UNIR-Universidad_Internacional_de_La_Rioja-E74C3C?style=for-the-badge)](https://www.unir.net)
+## Neuroeconomista Forense de Élite | Forensic Neuroeconomist
 
-**Neuroscientist · Researcher · Data Scientist**  
-Universidad Internacional de La Rioja (UNIR)  
-📧 juanmoises.delaserna@unir.net
+> **IA antifraude · sesgos en decisiones económicas · Gobiernos · Bancos centrales · Big Four · Fortune 500**
 
-</div>
+Investigador científico con más de 290 obras publicadas, 500+ DOIs y 90+ conjuntos de datos abiertos en áreas que van desde la neurociencia cognitiva hasta la economía del comportamiento, la salud pública latinoamericana y la inteligencia artificial aplicada.
 
----
-
-## 🔬 Research Focus
-
-- **Neuroscience & Neuropsychology** — Cognitive processes, brain plasticity, neurodegenerative diseases
-- **Public Health & Epidemiology** — Latin America, Alzheimer's, mental health, demographic transitions
-- **Open Science** — 92+ published datasets across Harvard Dataverse, Zenodo, Mendeley, Figshare
+*Researcher with 290+ published works, 500+ DOIs, and 90+ open datasets spanning cognitive neuroscience, behavioral economics, Latin American public health, and applied artificial intelligence.*
 
 ---
 
-## 📊 Open Datasets (92+ DOIs)
+## 🎓 Credentials / Credenciales
 
-| Platform | Count | Focus |
-|---|---|---|
-| [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/juanmoisesd) | 18 | Alzheimer, COVID-19, GDP, Mental Health |
-| [Zenodo](https://zenodo.org/search?q=de+la+serna+tuya) | 44 | Neuroscience, Demographics, Behavioral Economics |
-| [Mendeley Data](https://data.mendeley.com/datasets?search=de+la+serna) | 19 | Economic Impact, Suicide, NeuroAI |
-| [Figshare](https://figshare.com/search?q=de+la+serna+tuya) | 8 | ADHD, Employment, Drug Use |
-| [OSF](https://osf.io/search?q=de+la+serna+tuya) | 3 | Financial Literacy, Demographics |
-
----
-
-## 🖥️ Interactive Dashboards
-
-| Project | Topic | Live |
-|---|---|---|
-| [Alzheimer LatAm](https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard) | Alzheimer 2000-2050 | [🌐 Open](https://juanmoisesd.github.io/alzheimer-latinamerica-dashboard/) |
-| [Mental Health Specialists](https://github.com/juanmoisesd/mental-health-specialists-iberoamerica) | Ibero-America | [🌐 Open](https://juanmoisesd.github.io/mental-health-specialists-iberoamerica/) |
-| [GDP Latin America](https://github.com/juanmoisesd/gdp-latam-2000-2024) | Economics 2000-2024 | [🌐 Open](https://juanmoisesd.github.io/gdp-latam-2000-2024/) |
-| [HIV/AIDS LatAm](https://github.com/juanmoisesd/hiv-aids-latinamerica-dashboard) | Epidemiology | [🌐 Open](https://juanmoisesd.github.io/hiv-aids-latinamerica-dashboard/) |
-| [Economic Crimes](https://github.com/juanmoisesd/economic-crimes-latam) | Corruption & Crime | [🌐 Open](https://juanmoisesd.github.io/economic-crimes-latam/) |
-| [Neuroinflammation](https://github.com/juanmoisesd/neuroinflammation-neurodegenerative) | Neuroscience | [🌐 Open](https://juanmoisesd.github.io/neuroinflammation-neurodegenerative/) |
+| Field | Detail |
+|-------|--------|
+| **Institution** | Universidad Internacional de La Rioja (UNIR) |
+| **PhD** | Psicología Básica — Universidad de Sevilla |
+| **Master** | Neurociencia — Universidad Pablo de Olavide |
+| **ORCID** | [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) |
+| **Scopus ID** | [26632846700](https://www.scopus.com/authid/detail.uri?authorId=26632846700) |
+| **ResearcherID** | [M-8296-2019](https://www.webofscience.com/wos/author/record/M-8296-2019) |
+| **ISNI** | [0000000136898471](https://isni.org/isni/0000000136898471) |
+| **Loop** | [107568](https://loop.frontiersin.org/people/107568) |
+| **RENACYT** | P0168138 |
 
 ---
 
-## 📄 Latest Preprints
+## 📊 Research Impact / Impacto de Investigación
 
-| | Title | DOI |
-|---|---|---|
-| 🧠 | Alzheimer Projections LatAm 2024-2050 | [10.5281/zenodo.19116685](https://doi.org/10.5281/zenodo.19116685) |
-| 📊 | Temporal Trends Alzheimer 2000-2023 | [10.5281/zenodo.19124482](https://doi.org/10.5281/zenodo.19124482) |
-| 🌍 | Cross-National Alzheimer Comparison | [10.5281/zenodo.19124443](https://doi.org/10.5281/zenodo.19124443) |
-| 📋 | SR Prevention Interventions | [10.5281/zenodo.19124346](https://doi.org/10.5281/zenodo.19124346) |
-
----
-
-## 🔧 Tools & Pipeline
-
-[![ncra-project](https://img.shields.io/badge/Pipeline-ncra--project-2C3E50?style=flat-square&logo=github)](https://github.com/juanmoisesd/ncra-project)
-[![research-hub](https://img.shields.io/badge/Hub-research--hub-27AE60?style=flat-square&logo=github)](https://github.com/juanmoisesd/research-hub)
+| Metric | Value |
+|--------|-------|
+| Scientific works | 290+ |
+| DOIs | 500+ |
+| Open datasets | 90+ |
+| Academia.edu views | 20,176+ |
+| Academia.edu ranking | Top 1% globally |
+| GitHub repositories | 71+ open datasets |
 
 ---
 
-<div align="center">
-<sub>All datasets are open access (CC0 1.0) · Last updated: 2026-03-20</sub>
-</div>
+## 🗂️ Featured Research Repositories
+
+### 🧠 Neuroscience & Mental Health
+- [alzheimer-latinamerica-dashboard](https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard) — Alzheimer epidemiology in Latin America
+- [neuroinflammation-neurodegenerative](https://github.com/juanmoisesd/neuroinflammation-neurodegenerative) — Neuroinflammation & neurodegeneration data
+- [mindfulness-ansiedad-latam](https://github.com/juanmoisesd/mindfulness-ansiedad-latam) — Mindfulness & anxiety in LATAM
+- [mental-health-disorders-in-latin-american-university-population-prevalenci](https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalenci) — Mental health in universities
+- [suicidio-espana-covid19-analysis](https://github.com/juanmoisesd/suicidio-espana-covid19-analysis) — Suicide & COVID-19 in Spain
+
+### 💹 Behavioral Economics & Neuroeconomics
+- [global-behavioral-economics-experiments-dataset](https://github.com/juanmoisesd/global-behavioral-economics-experiments-dataset) — Global behavioral economics experiments
+- [psychological-drivers-of-economic-decision-making-dataset](https://github.com/juanmoisesd/psychological-drivers-of-economic-decision-making-dataset) — Psychological drivers of economic decisions
+- [base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-](https://github.com/juanmoisesd/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-) — Gamification, crypto & behavioral biases
+
+### 🦟 Epidemiology & Public Health
+- [dengue-global-base-de-datos-de-casos-por-pais-1995-2024](https://github.com/juanmoisesd/dengue-global-base-de-datos-de-casos-por-pais-1995-2024) — Global dengue 1995–2024
+- [cholera-americas-paho](https://github.com/juanmoisesd/cholera-americas-paho) — Cholera in the Americas (PAHO)
+- [hiv-aids-latinamerica-dashboard](https://github.com/juanmoisesd/hiv-aids-latinamerica-dashboard) — HIV/AIDS in Latin America
+- [evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202](https://github.com/juanmoisesd/evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202) — Vector-borne diseases LATAM
+
+### 📈 Economics & Development
+- [gdp-latam-2000-2024](https://github.com/juanmoisesd/gdp-latam-2000-2024) — GDP in Latin America 2000–2024
+- [poverty-rates-by-country-1995-2023-dataset](https://github.com/juanmoisesd/poverty-rates-by-country-1995-2023-dataset) — Poverty rates worldwide
+- [base-de-datos-de-impacto-economico-de-israel-2020-2024-indicadores-clave-factore](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-israel-2020-2024-indicadores-clave-factore) — Economic impact Israel
+- [base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024) — Economic impact Spain
+
+### 👥 Demography & Population
+- [evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem](https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem) — Population by age groups LATAM
+- [indicadores-demograficos-latam-2000-2023](https://github.com/juanmoisesd/indicadores-demograficos-latam-2000-2023) — Demographic indicators LATAM
+- [latin-america-population-age-structure-dataset](https://github.com/juanmoisesd/latin-america-population-age-structure-dataset) — Population age structure
+
+### 🤖 AI & Open Science
+- [generative-ai-in-academic-research-dataset](https://github.com/juanmoisesd/generative-ai-in-academic-research-dataset) — Generative AI in research
+- [ncra-project](https://github.com/juanmoisesd/ncra-project) — NCRA scientific dominance pipeline
+- [research-hub](https://github.com/juanmoisesd/research-hub) — Central research hub
 
 ---
 
-## Citation / Cite This Repository
+## 🔬 Research Areas / Líneas de Investigación
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green?logo=orcid)](https://orcid.org/0000-0002-8401-8018)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmoisesdelaserna-blue?logo=linkedin)](https://www.linkedin.com/in/juanmoisesdelaserna/)
-[![Scopus](https://img.shields.io/badge/Scopus-26632846700-orange)](https://www.scopus.com/authid/detail.uri?authorId=26632846700)
+```
+Neuroeconomics          Behavioral Economics      Cognitive Neuroscience
+Forensic Neuroeconomy   AI & Fraud Detection      Open Science & FAIR Data
+Latin American Health   Epidemiology              Mental Health
+Demography              Population Studies         Educational Data Science
+```
 
-If you use this repository in your research, please cite:
+---
 
-**APA 7**
-> De la Serna Tuya, J. M. (2025). *Profile README* [Dataset]. GitHub. https://github.com/juanmoisesd/juanmoisesd
+## 📬 Contact & Profiles / Contacto y Perfiles
 
-**BibTeX**
+| Platform | Link |
+|---------|------|
+| 📧 Email | juanmoises.delaserna@unir.net |
+| 🔗 LinkedIn | [linkedin.com/in/juanmoisesdelaserna](https://www.linkedin.com/in/juanmoisesdelaserna/) |
+| 🆔 ORCID | [orcid.org/0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) |
+| 🎓 Google Scholar | [scholar.google.com](https://scholar.google.com/citations?user=juanmoisesd) |
+| 📚 ResearchGate | [researchgate.net](https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya) |
+| 🏛️ Academia.edu | [unir.academia.edu](https://unir.academia.edu/JuanMois%C3%A9sDeLaSernaTuya) |
+| 📊 Scopus | [scopus.com](https://www.scopus.com/authid/detail.uri?authorId=26632846700) |
+| 🔬 Web of Science | [webofscience.com](https://www.webofscience.com/wos/author/record/M-8296-2019) |
+| 🗃️ Zenodo | [zenodo.org](https://zenodo.org/search?q=serna+tuya) |
+| 📦 Figshare | [figshare.com](https://figshare.com/search?q=serna+tuya) |
+| 🌐 Loop/Frontiers | [loop.frontiersin.org/people/107568](https://loop.frontiersin.org/people/107568) |
+
+---
+
+## 📄 How to Cite My Work
+
 ```bibtex
-@dataset{delaserna2025_juanmoisesd,
+@misc{delaserna_juanmoisesd,
   author    = {De la Serna Tuya, Juan Moisés},
-  title     = {Profile README},
+  title     = {Open Research Datasets and Analysis — juanmoisesd},
   year      = {2025},
   publisher = {GitHub},
-  url       = {https://github.com/juanmoisesd/juanmoisesd},
-  note      = {ORCID: 0000-0002-8401-8018}
+  url       = {https://github.com/juanmoisesd},
+  note      = {ORCID: 0000-0002-8401-8018. Universidad Internacional de La Rioja (UNIR)}
 }
 ```
 
-### About the Author
+---
 
-**Juan Moisés de la Serna Tuya** | Neuroeconomista forense | IA antifraude | UNIR
+[![FAIR](https://img.shields.io/badge/Data-FAIR_Compliant-brightgreen)](https://www.go-fair.org/)
+[![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Open Science](https://img.shields.io/badge/Open-Science-blue)](https://orcid.org/0000-0002-8401-8018)
 
-| ID | Link |
-|----|------|
-| ORCID | [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) |
-| LinkedIn | [juanmoisesdelaserna](https://www.linkedin.com/in/juanmoisesdelaserna/) |
-| Scopus | [26632846700](https://www.scopus.com/authid/detail.uri?authorId=26632846700) |
-| ResearcherID | [M-8296-2019](https://www.webofscience.com/wos/author/record/M-8296-2019) |
-| ResearchGate | [Juan_De_La_Serna_Tuya](https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya) |
-
-> 290+ scientific works · 500+ DOIs · 90+ open datasets · Top 1% Academia.edu
-
-See also: [ABOUT_THE_AUTHOR.md](./ABOUT_THE_AUTHOR.md) · [CITATION_GUIDE.md](./CITATION_GUIDE.md) · [GLOSSARY.md](./GLOSSARY.md)
+*Last updated: 2025 · All datasets follow FAIR principles and are CC0 licensed*
