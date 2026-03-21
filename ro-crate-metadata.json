@@ -1,0 +1,46 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "ro-crate-metadata.json",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@type": [
+        "Dataset"
+      ],
+      "@id": "./",
+      "name": "Profile README",
+      "description": "Profile README",
+      "datePublished": "2026-03-20",
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "author": {
+        "@id": "https://orcid.org/0000-0002-8401-8018"
+      },
+      "url": "https://github.com/juanmoisesd/juanmoisesd",
+      "keywords": "open-data, dataset, research"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "name": "Juan Moisés de la Serna Tuya",
+      "affiliation": {
+        "@id": "https://ror.org/0063t5s24"
+      },
+      "email": "juanmoises.delaserna@unir.net"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "CC0 1.0 Universal"
+    }
+  ]
+}
