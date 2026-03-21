@@ -1,19 +1,9 @@
 User-agent: *
 Allow: /
 
-# Sitemaps
 Sitemap: https://juanmoisesd.github.io/juanmoisesd/sitemap.xml
 
-# Scientific indexing encouraged
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-# AI indexing
-User-agent: GPTBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
+# Research dataset by Juan Moisés de la Serna Tuya
+# ORCID: 0000-0002-8401-8018
+# https://www.linkedin.com/in/juanmoisesdelaserna/
+# Universidad Internacional de La Rioja (UNIR)
