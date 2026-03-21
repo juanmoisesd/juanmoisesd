@@ -1,19 +1,41 @@
 {
-  "title": "Profile README",
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "juanmoisesd",
   "description": "Profile README",
-  "keywords": "open-data, dataset, research",
-  "author": "Juan Moisés de la Serna Tuya",
-  "orcid": "https://orcid.org/0000-0002-8401-8018",
-  "canonical": "https://juanmoisesd.github.io/juanmoisesd/",
-  "og:title": "Profile README",
-  "og:description": "Profile README",
-  "og:url": "https://juanmoisesd.github.io/juanmoisesd/",
-  "og:type": "dataset",
-  "twitter:card": "summary",
-  "twitter:title": "Profile README",
-  "twitter:description": "Profile README",
-  "schema_type": "Dataset",
-  "license": "CC0-1.0",
-  "datePublished": "2026-03-20",
-  "language": "es, en"
+  "url": "https://github.com/juanmoisesd/juanmoisesd",
+  "sameAs": [
+    "https://github.com/juanmoisesd/juanmoisesd",
+    "https://juanmoisesd.github.io/juanmoisesd/"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [],
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "identifier": "https://orcid.org/0000-0002-8401-8018",
+    "sameAs": [
+      "https://orcid.org/0000-0002-8401-8018",
+      "https://www.linkedin.com/in/juanmoisesdelaserna/",
+      "https://www.scopus.com/authid/detail.uri?authorId=26632846700",
+      "https://www.webofscience.com/wos/author/record/M-8296-2019",
+      "https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya",
+      "https://github.com/juanmoisesd"
+    ],
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "datePublished": "2025",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "version": "1.0.0"
 }
