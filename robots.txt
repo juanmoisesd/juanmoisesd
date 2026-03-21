@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://juanmoisesd.github.io/juanmoisesd/sitemap.xml
+
+# Scientific indexing encouraged
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI indexing
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
