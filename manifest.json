@@ -1,0 +1,130 @@
+{
+  "name": "Profile README",
+  "short_name": "juanmoisesd",
+  "description": "Profile README",
+  "version": "1.0.0",
+  "author": "Juan Moisés de la Serna Tuya",
+  "orcid": "https://orcid.org/0000-0002-8401-8018",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/juanmoisesd/juanmoisesd",
+  "homepage": "https://juanmoisesd.github.io/juanmoisesd/",
+  "files": [
+    {
+      "path": "README.md",
+      "type": "documentation",
+      "description": "Main documentation"
+    },
+    {
+      "path": "CITATION.cff",
+      "type": "citation",
+      "description": "Citation metadata"
+    },
+    {
+      "path": "codemeta.json",
+      "type": "metadata",
+      "description": "Scientific metadata"
+    },
+    {
+      "path": "LICENSE",
+      "type": "legal",
+      "description": "License file"
+    },
+    {
+      "path": "AUTHORS.md",
+      "type": "attribution",
+      "description": "Author list"
+    },
+    {
+      "path": ".zenodo.json",
+      "type": "metadata",
+      "description": "Zenodo upload metadata"
+    },
+    {
+      "path": "ro-crate-metadata.json",
+      "type": "metadata",
+      "description": "RO-Crate FAIR metadata"
+    },
+    {
+      "path": "datapackage.json",
+      "type": "metadata",
+      "description": "Frictionless Data package"
+    },
+    {
+      "path": "PROV.json",
+      "type": "provenance",
+      "description": "W3C PROV provenance"
+    },
+    {
+      "path": "docs/methodology.md",
+      "type": "documentation",
+      "description": "Methodology"
+    },
+    {
+      "path": "docs/validation.md",
+      "type": "documentation",
+      "description": "Validation report"
+    },
+    {
+      "path": "docs/limitations.md",
+      "type": "documentation",
+      "description": "Limitations"
+    },
+    {
+      "path": "docs/reproducibility.md",
+      "type": "documentation",
+      "description": "Reproducibility guide"
+    },
+    {
+      "path": "docs_public/summary.md",
+      "type": "outreach",
+      "description": "Public summary"
+    },
+    {
+      "path": "docs_public/faq.md",
+      "type": "outreach",
+      "description": "FAQ"
+    },
+    {
+      "path": "ETHICS.md",
+      "type": "legal",
+      "description": "Ethics statement"
+    },
+    {
+      "path": "DATA_MANAGEMENT_PLAN.md",
+      "type": "planning",
+      "description": "Data management plan"
+    },
+    {
+      "path": "schema_org.jsonld",
+      "type": "seo",
+      "description": "Schema.org structured data"
+    },
+    {
+      "path": "sitemap.xml",
+      "type": "seo",
+      "description": "Sitemap for indexing"
+    },
+    {
+      "path": "robots.txt",
+      "type": "seo",
+      "description": "Robots crawling rules"
+    },
+    {
+      "path": "index.html",
+      "type": "web",
+      "description": "Microsite homepage"
+    },
+    {
+      "path": "style.css",
+      "type": "web",
+      "description": "Stylesheet"
+    },
+    {
+      "path": "script.js",
+      "type": "web",
+      "description": "JavaScript"
+    }
+  ],
+  "created": "2026-03-20",
+  "updated": "2026-03-21"
+}
