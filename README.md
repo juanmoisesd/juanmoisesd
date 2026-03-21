@@ -5,6 +5,7 @@
 [![Scopus](https://img.shields.io/badge/Scopus-26632846700-orange?style=for-the-badge)](https://www.scopus.com/authid/detail.uri?authorId=26632846700)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-teal?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-Top_1%25-darkgreen?style=for-the-badge)](https://unir.academia.edu/JuanMois%C3%A9sDeLaSernaTuya)
+[![Collection DOI](https://img.shields.io/badge/Zenodo_Collection-10.5281%2Fzenodo.19145316-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.19145316)
 [![GitHub followers](https://img.shields.io/github/followers/juanmoisesd?style=for-the-badge&logo=github)](https://github.com/juanmoisesd)
 
 ## Neuroeconomista Forense de Élite | Forensic Neuroeconomist
