@@ -1,0 +1,18 @@
+{
+  "funding": [
+    {
+      "funder": {
+        "name": "Universidad Internacional de La Rioja (UNIR)",
+        "url": "https://www.unir.net",
+        "type": "University"
+      },
+      "award_title": "Independent Research",
+      "award_number": "N/A",
+      "description": "This work was produced independently without specific external funding."
+    }
+  ],
+  "author": {
+    "name": "Juan Moisés de la Serna Tuya",
+    "orcid": "https://orcid.org/0000-0002-8401-8018"
+  }
+}
