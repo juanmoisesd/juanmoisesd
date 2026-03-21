@@ -1,0 +1,143 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "givenName": "Juan Moisés",
+  "familyName": "de la Serna Tuya",
+  "alternateName": [
+    "Juan Moises de la Serna",
+    "J.M. de la Serna",
+    "De la Serna Tuya, J.M.",
+    "Serna Tuya, J.M.",
+    "De la Serna, Juan Moisés"
+  ],
+  "jobTitle": "Professor & Researcher | Elite Forensic Neuroeconomist",
+  "description": "Dr. Juan Moisés de la Serna Tuya. Neuroeconomista forense de élite | IA antifraude + sesgos en decisiones económicas | Gobiernos • Bancos centrales • Big Four • Fortune 500. Professor and Researcher at Universidad Internacional de La Rioja (UNIR). 25+ years expertise in cognitive neuroscience, behavioral economics, forensic psychology, and AI governance. ORCID: 0000-0002-8401-8018. Scopus: 26632846700. ResearcherID: M-8296-2019.",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net",
+    "@id": "https://ror.org/0063t5s24"
+  },
+  "email": "juanmoises.delaserna@unir.net",
+  "url": "https://juanmoisesdelaserna.es",
+  "sameAs": [
+    "https://orcid.org/0000-0002-8401-8018",
+    "https://www.linkedin.com/in/juanmoisesdelaserna/",
+    "https://www.researchgate.net/profile/Juan-Serna-10",
+    "https://www.scopus.com/authid/detail.uri?authorId=26632846700",
+    "https://www.webofscience.com/wos/author/record/M-8296-2019",
+    "https://loop.frontiersin.org/people/107568",
+    "https://twitter.com/juanmoises",
+    "https://github.com/juanmoisesd",
+    "https://dataverse.harvard.edu/dataverse/juanmoisesd",
+    "https://zenodo.org/search?q=de+la+serna+tuya",
+    "https://figshare.com/authors/Juan_Moises_de_la_Serna/3501986",
+    "https://europepmc.org/authors/0000-0002-8401-8018",
+    "https://dialnet.unirioja.es/servlet/autor?codigo=1703",
+    "https://www.redalyc.org/autor.oa?id=1703",
+    "https://unir.academia.edu/JuanMois%C3%A9sdelaSernaTuya"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0000-0002-8401-8018"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ScopusAuthorID",
+      "value": "26632846700"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ResearcherID",
+      "value": "M-8296-2019"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISNI",
+      "value": "0000000136898471"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "LoopID",
+      "value": "107568"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "RENACYT",
+      "value": "P0168138"
+    }
+  ],
+  "knowsAbout": [
+    "Neuroeconomics",
+    "Forensic Psychology",
+    "Fraud Detection",
+    "AI Anti-Fraud",
+    "Decision-Making Biases",
+    "Behavioral Economics",
+    "Cognitive Neuroscience",
+    "Mental Health",
+    "Neuropsychology",
+    "AI Governance",
+    "AI Ethics",
+    "Policy Design",
+    "Program Evaluation",
+    "Strategic Decision Making",
+    "Neuroinflammation",
+    "Brain Connectomics"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "PhD in Psychology (Basic Psychology)",
+      "issuedBy": "Universidad de Sevilla",
+      "dateCreated": "2005"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Master's in Neuroscience and Behavioral Biology",
+      "issuedBy": "Universidad Pablo de Olavide",
+      "dateCreated": "2002"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Specialist in Clinical Hypnosis",
+      "issuedBy": "UNED",
+      "dateCreated": "2006"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "RENACYT Researcher Level VI",
+      "issuedBy": "CONCYTEC Peru",
+      "identifier": "P0168138",
+      "dateCreated": "2022"
+    }
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "nationality": [
+    {
+      "@type": "Country",
+      "name": "Spain"
+    },
+    {
+      "@type": "Country",
+      "name": "Peru"
+    }
+  ],
+  "workLocation": {
+    "@type": "Place",
+    "name": "Spain"
+  },
+  "dataset_context": {
+    "title": "GitHub Profile: Juan Moisés de la Serna Tuya — Forensic Neuroeconomist, UNIR",
+    "url": "https://github.com/juanmoisesd/juanmoisesd",
+    "license": "CC0-1.0"
+  }
+}
