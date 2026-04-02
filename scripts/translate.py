@@ -1,19 +1,17 @@
 import os
 from openai import OpenAI
 
-client = OpenAI()
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 with open("templates/README.base.md", "r", encoding="utf-8") as f:
     text = f.read()
 
-response = client.chat.completions.create(
-    model="gpt-5",
-    messages=[
-        {"role": "user", "content": f"Translate to Spanish:\n\n{text}"}
-    ]
+response = client.responses.create(
+    model="gpt-4.1-mini",
+    input=f"Translate to Spanish:\n\n{text}"
 )
 
-translated = response.choices[0].message.content
+translated = response.output_text
 
 os.makedirs("generated", exist_ok=True)
 
@@ -23,4 +21,4 @@ with open("generated/README.es.md", "w", encoding="utf-8") as f:
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(text)
 
-print("OK")
+print("DONE")
