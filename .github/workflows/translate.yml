@@ -1,0 +1,31 @@
+name: Translate README
+
+on:
+  push:
+    paths:
+      - 'templates/README.base.md'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - run: pip install openai
+
+      - run: python scripts/translate.py
+
+      - run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "update translations" || echo "no changes"
+          git push
