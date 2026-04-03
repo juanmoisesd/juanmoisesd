@@ -3,7 +3,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4470--0468-green?logo=orcid)](https://orcid.org/0000-0003-4470-0468)
 [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-Datasets-red?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=)](https://dataverse.harvard.edu/dataverse/juanmoisesd)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Publications-blue?logo=zenodo)](https://zenodo.org/search?q=juanmoisesd)
-[![PyPI](https://img.shields.io/pypi/v/latamdata?label=latamdata-py&logo=pypi)](https://pypi.org/project/latamdata/)
+[![GitHub release](https://img.shields.io/github/v/release/juanmoisesd/latamdata-py?label=latamdata-py&logo=github)](https://github.com/juanmoisesd/latamdata-py/releases)
 [![Email](https://img.shields.io/badge/Email-jmsernatuya%40gmail.com-informational?logo=gmail)](mailto:jmsernatuya@gmail.com)
 
 ---
@@ -27,8 +27,8 @@ Researcher and data scientist focused on **Latin American public health data**, 
 | [🐍 latamdata-py](https://github.com/juanmoisesd/latamdata-py) | Python package to access Latin American research datasets | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/latamdata-py?style=social)](https://github.com/juanmoisesd/latamdata-py) |
 | [🧠 alzheimer-latinamerica-dashboard](https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard) | Alzheimer's disease data dashboard for Latin America | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/alzheimer-latinamerica-dashboard?style=social)](https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard) |
 | [💚 mental-health-specialists-iberoamerica](https://github.com/juanmoisesd/mental-health-specialists-iberoamerica) | Mental health workforce data across 22 Ibero-American countries | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/mental-health-specialists-iberoamerica?style=social)](https://github.com/juanmoisesd/mental-health-specialists-iberoamerica) |
-| [🧬 human-brain-transcriptomics](https://github.com/juanmoisesd/human-brain-transcriptomics) | Transcriptomics datasets for human brain regions | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/human-brain-transcriptomics?style=social)](https://github.com/juanmoisesd/human-brain-transcriptomics) |
-| [🤖 generative-ai-latinamerica](https://github.com/juanmoisesd/generative-ai-latinamerica) | Generative AI adoption and readiness data in Latin America | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/generative-ai-latinamerica?style=social)](https://github.com/juanmoisesd/generative-ai-latinamerica) |
+| [🧬 human-brain-connectomics](https://github.com/juanmoisesd/human-brain-connectomics-structural-and-functional-connectivity-database) | Human brain connectomics: structural and functional connectivity database | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/human-brain-connectomics-structural-and-functional-connectivity-database?style=social)](https://github.com/juanmoisesd/human-brain-connectomics-structural-and-functional-connectivity-database) |
+| [🤖 generative-ai-academic-research](https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity) | Generative AI usage, perception, and productivity in academic research in Latin America | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity?style=social)](https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity) |
 | [📚 research-hub](https://github.com/juanmoisesd/research-hub) | Central hub for all research datasets and publications | [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/research-hub?style=social)](https://github.com/juanmoisesd/research-hub) |
 
 ---
@@ -83,7 +83,7 @@ Researcher and data scientist focused on **Latin American public health data**, 
 | 📧 Email | [jmsernatuya@gmail.com](mailto:jmsernatuya@gmail.com) |
 | 🆔 ORCID | [0000-0003-4470-0468](https://orcid.org/0000-0003-4470-0468) |
 | 📚 Harvard Dataverse | [dataverse.harvard.edu/dataverse/juanmoisesd](https://dataverse.harvard.edu/dataverse/juanmoisesd) |
-| 🐍 PyPI | [pypi.org/project/latamdata](https://pypi.org/project/latamdata/) |
+| 🐍 latamdata-py | [github.com/juanmoisesd/latamdata-py](https://github.com/juanmoisesd/latamdata-py) |
 | 📖 Docs | [juanmoisesd.github.io/latamdata-py](https://juanmoisesd.github.io/latamdata-py/) |
 
 ---
