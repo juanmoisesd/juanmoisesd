@@ -91,3 +91,12 @@ Researcher and data scientist focused on **Latin American public health data**, 
 <p align="center">
   <i>Open science for Latin America 🌎 — All data freely available under open licenses</i>
 </p>
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Juanmoisesd*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/juanmoisesd 
+
+See `CITATION.cff` for formatted references.
